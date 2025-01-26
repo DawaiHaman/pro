@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "T.c"
+#include "Test_Libry.c"
 int main( void ) {
 int result = power( 2, 4 );
 printf( "2³ == %d\n", result );
